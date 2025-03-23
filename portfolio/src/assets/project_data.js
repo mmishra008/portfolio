@@ -1,0 +1,58 @@
+export const project_data = [
+  {
+    id: 1,
+    name: 'Project-1',
+    p_title: 'Tour & Travels Website',
+    tech: 'JavaScript, ReactJS, Express, MongoDB, JWT, JOI, CSS(Modular)',
+    link: 'https://sttweb-client.vercel.app/',
+  },
+  {
+    id: 2,
+    name: 'Project-2',
+    p_title: 'Portfolio Website',
+    tech: 'JavaScript, ReactJS, Web3forms, CSS',
+    link: '#',
+  },
+  {
+    id: 3,
+    name: 'Project-3',
+    p_title: 'User Registration(CRUD)',
+    tech: 'JAVA, Spring Boot, SQL, ReactJS, CSS',
+    link: '#',
+  },
+  {
+    id: 4,
+    name: 'Project-4',
+    p_title: 'Quiz Application',
+    tech: 'JAVA, Spring Boot, SQL',
+    link: '#',
+  },
+  {
+    id: 5,
+    name: 'Project-5',
+    p_title: 'Student Registration(CRUD)',
+    tech: 'JAVA, Spring Boot, SQL',
+    link: '#',
+  },
+  {
+    id: 6,
+    name: 'Project-6',
+    p_title: 'Complete Authentication with OTP verification',
+    tech: 'JavaScript,ReactJS,Express,MongoDB',
+    link: '#',
+  },
+  {
+    id: 7,
+    name: 'Project-7',
+    p_title: 'Currency Converter',
+    tech: 'HTML, JavaScript, CSS',
+    link: 'https://currency-converter-tau-lilac.vercel.app/',
+  },
+  {
+    id: 8,
+    name: 'Project-8',
+    p_title: 'Weather App',
+    tech: 'HTML, JavaScript, CSS',
+    link: 'https://weather-app-xi-sooty-35.vercel.app/',
+  },
+];
